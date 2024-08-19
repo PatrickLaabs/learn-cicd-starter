@@ -20,6 +20,3 @@ jobs:
       
       - name: Print Go Version
         run: go version 
-
-      #- name: Force Failure
-      #  run: (exit 1)
